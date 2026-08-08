@@ -7,6 +7,9 @@
 </p>
 
 <p align="center">
+  <a href="https://hosseinzareinejad.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-Website-0052D4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
   <a href="https://linkedin.com/in/hossein-zareinejad">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -140,6 +143,9 @@ September 2022 – Present
 ## Contact Me
 
 <p align="center">
+  <a href="https://hosseinzareinejad.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-Website-0052D4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
   <a href="mailto:zarenejad83@gmail.com">
     <img src="https://img.shields.io/badge/Email-zarenejad83%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
