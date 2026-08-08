@@ -122,19 +122,6 @@ September 2022 – Present
 
 <p align="center">
   <img
-    width="49%"
-    src="https://github-readme-stats.vercel.app/api?username=HosseinZareinejad&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&title_color=4364F7&icon_color=0052D4"
-    alt="Hossein Zareinejad GitHub statistics"
-  />
-  <img
-    width="49%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=HosseinZareinejad&layout=compact&hide_border=true&langs_count=8&title_color=4364F7"
-    alt="Most-used languages"
-  />
-</p>
-
-<p align="center">
-  <img
     width="70%"
     src="https://github-readme-streak-stats.herokuapp.com/?user=HosseinZareinejad&hide_border=true&ring=4364F7&fire=0052D4&currStreakLabel=4364F7"
     alt="GitHub contribution streak"
