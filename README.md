@@ -1,7 +1,7 @@
 <p align="center">
   <img
     width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0052D4,50:4364F7,100:6FB1FC&height=220&section=header&text=Hossein%20Zareinejad&fontSize=55&fontColor=ffffff&fontAlignY=36&desc=NLP%20%7C%20Computer%20Vision%20%7C%20Large%20Language%20Models%20%7C%20Software%20Engineering&descAlignY=58&descSize=18"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0052D4,50:4364F7,100:6FB1FC&height=220&section=header&text=Hossein%20Zareinejad&fontSize=55&fontColor=ffffff&fontAlignY=36&desc=NLP%20%7C%20Large%20Language%20Models%20%7C%20LLM%20Agents%20%7C%20Software%20Engineering&descAlignY=58&descSize=18"
     alt="Hossein Zareinejad banner"
   />
 </p>
@@ -26,7 +26,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=900&color=4364F7&center=true&vCenter=true&width=800&lines=BSc+Computer+Engineering+Student;NLP+%26+Large+Language+Models;Computer+Vision+%26+Perception;LLM+Agents+%26+Autonomous+Planning;Building+Scalable+Intelligent+Systems"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=900&color=4364F7&center=true&vCenter=true&width=800&lines=BSc+Computer+Engineering+Student;NLP+%26+Large+Language+Models;LLM+Benchmarking+%26+Evaluation;LLM+Agents+%26+Autonomous+Driving;Building+Intelligent+Systems"
     alt="Animated introduction"
   />
 </p>
@@ -41,15 +41,13 @@
 
 ## About Me
 
-I am a **BSc student in Computer Engineering at Amirkabir University of Technology**, with hands-on experience in NLP, Computer Vision, LLM evaluation, and building production-ready pipelines.
+I am a **BSc student in Computer Engineering at Amirkabir University of Technology**, with hands-on experience in NLP, LLM evaluation, and building production-ready pipelines. I develop Retrieval-Augmented Generation (RAG) systems and conversational agents, fine-tune foundation models for domain-specific applications, and diagnose model behaviors such as hallucinations.
 
-I am highly motivated to solve engineering challenges in scaling large language models, processing high-quality datasets, and deploying intelligent systems using clean-code practices.
-
-* BSc in Computer Engineering at **Amirkabir University of Technology**
-* Working with Computer Vision algorithms, end-to-end planning models, and perception for Autonomous Vehicles
-* Exploring Large Language Models (LLMs), RAG Architectures, and Agentic Systems
-* Interested in LLM Benchmarking, Fine-Tuning, and Autonomous Planning
-* Building scalable backend systems and intelligent agents
+* Undergraduate researcher in **LLM evaluation & benchmarking** (Dr. Saeedeh Momtazi): a 5,793-question Persian benchmark and 14 open-weight LLMs evaluated
+* Undergraduate researcher in **autonomous driving & LLM agents** (Dr. Mahdi Javanmardi): LLM-based planners integrated with ROS2 / Autoware
+* Researcher in **cross-lingual & contextual Word Sense Induction** (Dr. Masood Ghayoomi)
+* Teaching assistant for several courses at Amirkabir University of Technology, Head TA for Software Engineering II, Software Testing and Industrial Internship
+* Interested in LLM Benchmarking, RAG Architectures, Agentic Systems, Fine-Tuning, and Autonomous Planning
 * Based in Tehran, Iran
 
 ---
@@ -59,24 +57,24 @@ I am highly motivated to solve engineering challenges in scaling large language 
 <table>
   <tr>
     <td align="center" width="25%">
-      <strong>Computer Vision</strong>
-      <br/><br/>
-      Perception models for autonomous driving, end-to-end planning models (CARLA simulator), and object detection algorithms
-    </td>
-    <td align="center" width="25%">
       <strong>NLP & LLMs</strong>
       <br/><br/>
-      Fine-tuning, benchmarking, evaluation, and working with foundation models like LLaMA and Qwen
+      Fine-tuning, benchmarking, evaluation, and working with foundation models like LLaMA, Qwen and Gemma
+    </td>
+    <td align="center" width="25%">
+      <strong>LLM Evaluation</strong>
+      <br/><br/>
+      Persian benchmarks, bias-controlled scoring protocols, and paired statistical testing (McNemar, Holm, bootstrap CIs)
     </td>
     <td align="center" width="25%">
       <strong>Agentic Systems</strong>
       <br/><br/>
-      Autonomous decision-making frameworks and integrating LLM agents with robotics/planning (ROS2)
+      LLM agents for autonomous driving and their integration with robotics/planning stacks (ROS2, Autoware)
     </td>
     <td align="center" width="25%">
       <strong>Software Engineering</strong>
       <br/><br/>
-      Building responsive web apps, REST/GraphQL APIs, and scalable backend pipelines
+      Responsive web apps, REST/GraphQL APIs, and scalable backend pipelines
     </td>
   </tr>
 </table>
@@ -88,20 +86,21 @@ I am highly motivated to solve engineering challenges in scaling large language 
 ### Programming Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,c,cs,js,ts&theme=light" alt="Programming languages"/>
+  <img src="https://skillicons.dev/icons?i=python,c,kotlin,java,cs,js&theme=light" alt="Programming languages"/>
 </p>
 
-### AI, NLP, and Computer Vision
+### AI, NLP, and LLM Ecosystem
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=pytorch,opencv&theme=light" alt="Machine learning tools"/>
+  <img src="https://skillicons.dev/icons?i=pytorch&theme=light" alt="Machine learning tools"/>
 </p>
 
 <p align="left">
   <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain"/>
-  <img src="https://img.shields.io/badge/Vector_Databases-4B0082?style=for-the-badge" alt="Vector DBs"/>
-  <img src="https://img.shields.io/badge/Computer_Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="Computer Vision"/>
+  <img src="https://img.shields.io/badge/vLLM-30A2FF?style=for-the-badge" alt="vLLM"/>
+  <img src="https://img.shields.io/badge/llama.cpp-1C3C3C?style=for-the-badge" alt="llama.cpp"/>
+  <img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white" alt="spaCy"/>
+  <img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge" alt="Qdrant"/>
   <img src="https://img.shields.io/badge/LLM_Evaluation-0052D4?style=for-the-badge" alt="LLM Evaluation"/>
 </p>
 
@@ -116,20 +115,8 @@ I am highly motivated to solve engineering challenges in scaling large language 
 ## Education
 
 ### Amirkabir University of Technology
-**BSc in Computer Engineering**
-September 2022 – Present
-
----
-
-## GitHub Statistics
-
-<p align="center">
-  <img
-    width="70%"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=HosseinZareinejad&hide_border=true&ring=4364F7&fire=0052D4&currStreakLabel=4364F7"
-    alt="GitHub contribution streak"
-  />
-</p>
+**BSc in Computer Engineering** · GPA (last two years): 3.69 / 4.0 · Overall GPA: 3.17 / 4.0
+September 2022 – March 2027 (Expected)
 
 ---
 
@@ -158,7 +145,7 @@ September 2022 – Present
 </p>
 
 <p align="center">
-  <em>Open to opportunities and collaborations in NLP, Computer Vision, LLMs, AI agents, and intelligent software systems.</em>
+  <em>Open to opportunities and collaborations in NLP, LLMs, AI agents, and intelligent software systems.</em>
 </p>
 
 <p align="center">
