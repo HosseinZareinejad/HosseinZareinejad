@@ -115,7 +115,7 @@ I am a **BSc student in Computer Engineering at Amirkabir University of Technolo
 ## Education
 
 ### Amirkabir University of Technology
-**BSc in Computer Engineering** · GPA (last two years): 3.69 / 4.0 · Overall GPA: 3.17 / 4.0
+**BSc in Computer Engineering** · GPA (last two years): 3.69 / 4.0
 September 2022 – March 2027 (Expected)
 
 ---
